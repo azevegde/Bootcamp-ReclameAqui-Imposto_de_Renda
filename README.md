@@ -1,6 +1,6 @@
 # 📊 Planilha de Gestão de Imposto de Renda
 
-Projeto desenvolvido para organizar, automatizar e facilitar a consolidação de informações para a declaração do **Imposto de Renda**. A planilha conta com navegação interativa, validação de dados, automação em VBA e proteção de dados.
+Projeto desenvolvido para organizar, automatizar e facilitar a consolidação de informações para a declaração do **Imposto de Renda**. A planilha conta com navegação interativa, validação de dados e proteção de dados.
 
 ---
 
